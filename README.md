@@ -2,11 +2,11 @@
 The Power of Lottie 🌟
 </h1>
 
-<a href="https://youtu.be/yz9E10Dq8Bg" target="_blank">
-    <img src="https://raw.githubusercontent.com/enzomanuelmangano/the-power-of-lottie/main/.assets/the-power-of-lottie.png" title="the-power-of-lottie">
+<a href="https://youtu.be/fLbtTL0rOcU" target="_blank">
+    <img src="https://github.com/enzomanuelmangano/the-power-of-lottie/blob/main/.assets/the-power-of-lottie.png" title="the-power-of-lottie">
 </a>
 
-[Check out the video tutorial!](https://youtu.be/YG_L8NyKPnc)
+[Check out the video tutorial!](https://youtu.be/fLbtTL0rOcU)
 
 ## Resources
 
